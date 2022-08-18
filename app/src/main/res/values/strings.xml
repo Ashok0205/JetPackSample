@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JetPackSampleV1</string>
+    <string name="dashboard_title">JetPack Sample </string>
+    <string name="home">Home</string>
+    <string name="home_tab">Home</string>
+    <string name="category_tab">Category</string>
+    <string name="profile_tab">Profile</string>
+    <string name="map">Map</string>
+    <string name="login">Login</string>
+    <string name="category">Category</string>
+    <string name="profile">Profile</string>
+    <string name="error">Error</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="password">Password</string>
+    <string name="ok">Ok</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password">Forgot Pssword</string>
+</resources>
